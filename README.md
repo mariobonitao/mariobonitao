@@ -1,16 +1,13 @@
-## Hi there 👋
+### Meu Perfil é esse ai
 
-<!--
-**mariobonitao/mariobonitao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mario Augusto (to solteiro, chama no zap)
+- Estou estudando pelo [Alura](https://www.alura.com.br)
+- Iniciante em programar em Java Script
+- Uso esse perfil para compartilhar meus projetos
 
-Here are some ideas to get you started:
+### Meu E-mail
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+mario.montagni.bueno@escola.pr.gov.br
+
+
+![](https://media1.tenor.com/m/YQMivC06H6gAAAAd/freddy-fazbear.gif)
